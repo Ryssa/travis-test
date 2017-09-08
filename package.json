@@ -1,0 +1,22 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryssa/travis-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryssa/travis-test/issues"
+  },
+  "homepage": "https://github.com/Ryssa/travis-test#readme",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
